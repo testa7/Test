@@ -1,4 +1,3 @@
 Hello.
 This is a reflection.
 Hi.
-Yo \m/.
